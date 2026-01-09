@@ -41,7 +41,7 @@ The website is fully responsive and designed to work smoothly on mobile, tablet,
 ---
 
 ## 📂 Repository Name
-`urbanstay-restaurant-website-by-idrees`
+`Urbanstay-Restaurant-Website-By-Idrees`
 
 ---
 
